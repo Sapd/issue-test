@@ -1,6 +1,6 @@
-name: New device request
-description: A request for a new supported device in HeadsetControl
-title: "[Bug]: "
+name: 🚀 New device request
+description: A request for a new device to be supported by HeadsetControl
+title: ""
 labels: [device-request]
 body:
 - type: markdown
@@ -8,10 +8,10 @@ body:
     value: |
       Thank you for your input!  
       
-      **Note**: Propably only people with the same device can help implementing the protocol for it. 
-      That is why it is a good idea to try it yourself 🚀! Take a look at the tutorial in the [wiki](https://github.com/Sapd/HeadsetControl/wiki/Development)
+      **Note**: Probably only people with the same device can help to implement the protocol for it
+      That is why it is a good idea to try it yourself 🚀! Take a look at the [Wiki](https://github.com/Sapd/HeadsetControl/wiki/Development).
       
-      You can also upload WireShark logs, or ask for help in Coding and open up a PR any time.
+      We are here to help you. You can provide WireShark logs, ask for help in Coding and open up a PR any time.
 - type: input
   id: device
   attributes:
