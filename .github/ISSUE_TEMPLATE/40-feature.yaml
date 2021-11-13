@@ -8,7 +8,7 @@ body:
 
       If your feature request is related to a problem, please describe it.
 
-      Also please describe posibile solutions or alternatives.
+      Also please describe possible solutions or alternatives.
 - type: textarea
   id: description
   attributes:
