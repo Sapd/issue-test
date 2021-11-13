@@ -45,7 +45,7 @@ body:
         Then copy and paste the output of `headsetcontrol --dev -- --list --device VENDORID:DEVICEID` replacing **PASTE HERE**.
     value: |
         <details>
-         <summary>Device IDs</summary>
+         <summary>Detailed Device Information</summary>
   
          ```
          PASTE HERE
