@@ -1,5 +1,5 @@
 name: 🚀 New device request
-description: A request for a new device to be supported by HeadsetControl
+description: Request a new device to be supported by HeadsetControl
 labels: [device-request]
 body:
 - type: markdown
@@ -40,7 +40,9 @@ body:
   id: deviceinfo
   attributes:
     label: Device information
-    description: Please copy and paste below (replacing *PASTE HERE*) the output of the command `headsetcontrol --dev -- --list` . If you have a deviceid, use `headsetcontrol --dev -- --list --device VENDORID:DEVICEID` instead please.
+    description: |
+        Please first determine the Vendor and ProductID of your headset (you can use `headsetcontrol --dev -- --list` to list all connected devices). 
+        Then copy and paste the output of `headsetcontrol --dev -- --list --device VENDORID:DEVICEID` replacing **PASTE HERE**.
     value: |
         <details>
          <summary>Device IDs</summary>
