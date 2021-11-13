@@ -1,6 +1,5 @@
 name: 🚀 New device request
 description: A request for a new device to be supported by HeadsetControl
-title: ""
 labels: [device-request]
 body:
 - type: markdown
