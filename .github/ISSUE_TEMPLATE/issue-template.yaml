@@ -14,7 +14,7 @@ body:
 - type: textarea
   id: description
   attributes:
-    label: "### Description"
+    label: Description
     description: Type in all details which could be useful
   validations:
     required: true
