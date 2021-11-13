@@ -1,5 +1,5 @@
 name: 🐞 Problem with device
-description: Report a problem with a device which is supported by HeadsetControl
+description: Report a problem of a device which is supported by HeadsetControl
 labels: [device-bug]
 body:
 - type: markdown
