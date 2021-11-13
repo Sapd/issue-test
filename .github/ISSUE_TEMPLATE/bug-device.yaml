@@ -7,7 +7,7 @@ body:
     value: |
       Thank you for your input!  
       
-      **Note**: Probably only people with the same device can help to fix protocol errors for it.
+      **Note**: If the source of the problem is an error in the implementation of the protocol, then probably only people with the same device can help to fix it.
       Take a look at the [Wiki](https://github.com/Sapd/HeadsetControl/wiki/Development).
 - type: textarea
   id: description
