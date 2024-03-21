@@ -42,11 +42,11 @@ body:
          ```
   
         </details>
-  - type: checkboxes
-    id: newdevice
-    attributes:
-      label: New device hint
-      description: Only people owning the device can implement it. So you probably need to install WireShark and try it yourself.
-      options:
-        - label: I understand that and I am opening up this Issue to get help in implementing the device
-          required: true        
+- type: checkboxes
+  id: newdevice
+  attributes:
+    label: New device hint
+    description: Only people owning the device can implement it. So you probably need to install WireShark and try it yourself.
+    options:
+      - label: I understand that and I am opening up this Issue to get help in implementing the device
+        required: true        
